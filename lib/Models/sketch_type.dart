@@ -1,0 +1,1 @@
+enum SketchType {scribble , line , circle}
